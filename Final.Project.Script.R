@@ -1,4 +1,4 @@
-## Final Project Script
+## Final Project Script for Big Data Class
 ## Load libraries
 library(tree)
 library(rpart)
